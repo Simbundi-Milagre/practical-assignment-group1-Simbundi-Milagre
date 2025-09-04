@@ -1,0 +1,7 @@
+hairprodduct.Mask
+hairprodduct.HairCareApp
+hairprodduct.Shampoo
+hairprodduct.HairProduct
+hairprodduct.HairSchedule
+hairprodduct.Cart
+hairprodduct.Conditioner
